@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author Benyas
+ *
+ */
+module math {
+}
