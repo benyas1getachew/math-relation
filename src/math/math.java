@@ -147,10 +147,10 @@ public class math {
 		
 		
 		//print the final answer
-		if(ref==0||tran==0||sym==0) {
+		if(ref==0&&tran==0&&sym==0) {
 			System.out.println("Equivalence Relation");
 		}
-		else if(ref==0||tran==0||antiSym==0) {
+		else if(ref==0&&tran==0&&antiSym==0) {
 			System.out.println("Partial order set");
 		}
 		else {
