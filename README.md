@@ -1,2 +1,2 @@
 # Math- relation
-this is for problems related realtions
+this is for problems related to relations
